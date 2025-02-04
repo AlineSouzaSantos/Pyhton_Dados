@@ -11,8 +11,6 @@ NumPy é uma biblioteca fundamental para a computação científica em Python. E
 
 ## Exemplo de Uso
 
-Aqui está um exemplo simples de como criar e manipular arrays usando NumPy:
-
 ```python
 import numpy as np
 
